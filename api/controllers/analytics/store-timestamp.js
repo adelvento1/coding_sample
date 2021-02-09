@@ -15,7 +15,7 @@ module.exports = {
     },
     user: {
       description: 'userid of user who completed action',
-      type: 'number',
+      type: 'string',
       required: true
     }, 
     event: {
