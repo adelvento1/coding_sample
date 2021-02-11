@@ -3,7 +3,6 @@ module.exports = {
 
   friendlyName: 'Get Analytics Report',
 
-
   description: 'Retrieve aggregate counts of users, clicks, and impressions within the hour of the given timestamp',
 
 
@@ -39,6 +38,5 @@ module.exports = {
       impressions: impressionsCount
     };
   }
-
 
 };
